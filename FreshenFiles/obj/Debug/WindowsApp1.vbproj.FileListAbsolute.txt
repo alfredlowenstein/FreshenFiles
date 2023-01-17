@@ -1,0 +1,11 @@
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.frmFreshenFiles.resources
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Al Lowenstein\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb

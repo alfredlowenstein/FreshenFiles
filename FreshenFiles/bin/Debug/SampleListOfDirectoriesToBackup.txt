@@ -1,0 +1,40 @@
+'This is a sample backup file.
+
+'Blank lines are ignored.
+'Lines that start with a backtick (i.e., the first character in this line) are ignored.
+
+'Lines with the following comma separated <keyword>,<value> pairs do the following:
+
+'Keyword                            Value
+'------------------------------     -------------------------------------------------
+'DIRECTORY_TO_FRESHEN               Backup the directory
+'FILE_TO_FRESHEN                    Backup the file on that line.
+'FILE_EXTENSIONS_TO_EXCLUDE         Exclude backup of files with this extension
+'                                   Note that you need to include a period (.).
+'FILES_TO_EXCLUDE                   Exclude backup of files with this filename.
+'FILES_TO_EXCLUDE_THAT_START_WITH   Exclude backup of files that start with this filename
+
+DIRECTORY_TO_FRESHEN,c:\dad
+DIRECTORY_TO_FRESHEN,c:\mom
+DIRECTORY_TO_FRESHEN,C:\Utility
+DIRECTORY_TO_FRESHEN,C:\MyPictures
+DIRECTORY_TO_FRESHEN,C:\Download
+DIRECTORY_TO_FRESHEN,C:\MusicNew
+DIRECTORY_TO_FRESHEN,C:\MusicWave
+
+FILE_TO_FRESHEN,C:\Windows\msdfmap.ini
+FILE_TO_FRESHEN,C:\Joe\help.txt 
+
+'Files to exclude
+FILE_EXTENSIONS_TO_EXCLUDE,.BAK
+FILE_EXTENSIONS_TO_EXCLUDE,.LNK
+
+FILES_TO_EXCLUDE,FOLDER.JPG
+FILES_TO_EXCLUDE,DESKTOP.INI
+
+FILES_TO_EXCLUDE_THAT_START_WITH,~
+FILES_TO_EXCLUDE_THAT_START_WITH,ALBUMART
+
+'The following lines are commented out.  They are ignored.
+'DIRECTORY_TO_FRESHEN,C:\Music34
+'DIRECTORY_TO_FRESHEN,C:\Video

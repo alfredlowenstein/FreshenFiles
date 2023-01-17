@@ -1,0 +1,15 @@
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.exe.config
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.exe
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.pdb
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.xml
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFilesRootName.frmFreshenFiles.resources
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFilesRootName.Resources.resources
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.vbproj.GenerateResource.cache
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.vbproj.CoreCompileInputs.cache
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.exe
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.xml
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.pdb
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.exe.manifest
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\bin\Release\FreshenFiles.application
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.exe.manifest
+C:\dad\Software\VisualStudio\FreshenFiles\FreshenFiles\obj\Release\FreshenFiles.application
